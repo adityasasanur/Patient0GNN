@@ -36,7 +36,10 @@ This will set up the training/testing data, visualize an example of the graphs, 
 Any variable in capital can be modified and tested.
 
 ## Project Creators:
-Aditya Sasanur
+Aditya Sasanur \
+<img src="developer-pics/aditya.jpg?raw=true" width="150">
 
+Ninaad Lakshman \
+<img src="developer-pics/ninaad.jpg?raw=true" width="150">
 
-
+Special thanks to Dr. B. Aditya Prakash for his guidance.
