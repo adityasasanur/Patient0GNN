@@ -1,5 +1,11 @@
 # Updated Graph Neural Network to Identify Patient Zero(s)
 
+## Research Paper:
+https://github.com/adityasasanur/Patient0GNN/blob/main/Final_EPI_Paper.pdf
+
+## Research Slides: 
+https://github.com/adityasasanur/Patient0GNN/blob/main/Final_EPI_Slides.pdf
+
 ## What is this package:
 From a computational standpoint, the challenge of identifying a patient zero poses considerable difficulties. As the outbreak progresses, tracing the precise source or sources of the infection becomes computationally expensive and often impractical. This is primarily due to the stochastic and unpredictable nature of disease spread within a dynamic population and network. Consequently, the formidable challenge at hand revolves around not only determining the number of initial patient zeros but also accurately identifying their identities amidst the intricate web of transmission pathways. This multifaceted challenge underscores the need for innovative approaches, such as the one we are pursuing, which harness advanced technologies like graph neural networks (GNNs) to navigate the complexity of disease dynamics and patient zero identification.
 
@@ -9,7 +15,7 @@ Furthermore, our model surpasses state-of-the-art techniques by incorporating sn
 
 ## How to install:
 
-You will need to install python and pip install the following packages
+You will need to install python and `pip install` the following packages
 
 - torch
 
@@ -21,10 +27,16 @@ You will need to install python and pip install the following packages
 
 - plotly
 
-# How to run the program:
+## How to run the program:
 
 To run the program, navigate to patient0.ipynb and hit the run all button in the python notebook.
 
 This will set up the training/testing data, visualize an example of the graphs, create the model, and train/test the model under various set ups.
 
 Any variable in capital can be modified and tested.
+
+## Project Creators:
+Aditya Sasanur
+
+
+
